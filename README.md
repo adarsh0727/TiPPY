@@ -1,6 +1,4 @@
-# Python script to generate README.md for the Object Detection project
 
-readme_content = """
 # Real-Time Object Detection Using OpenCV
 
 ## Overview
